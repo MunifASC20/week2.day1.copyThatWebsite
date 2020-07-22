@@ -1,0 +1,27 @@
+#Static_Pages{
+
+    display: flex;
+
+    align-content: flex-start;
+  
+    margin-left: 5%;
+    margin-bottom:0%;
+    font-size: 20px;
+  
+}
+
+#Sta{
+  margin:0;
+  margin-left:5%;
+  font-size: 13px;  
+}
+body{
+    background-image: url(src=)
+}
+
+.navigation{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top:100px;
+}
